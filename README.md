@@ -3,7 +3,11 @@
 
 This project analyzes 54,258 road accident records in Victoria, Australia, to uncover key patterns and insights. The goal is to identify trends in accident occurrences, types, and contributing conditions to support the development of more effective road safety strategies. This analysis leverages advanced data visualization tools and statistical analysis to deliver actionable insights for reducing road accidents and improving public safety.
 
-[![VicRoad Preview](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNsdXhkNGdyaGY1a3lqNjVhNTVydTc5eDZ5NnF1Z2NmYjc1Y2xmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMYlSqTmiTdD0sVCbx/giphy.gif)](https://public.tableau.com/app/profile/sandesh.karki/viz/VicAccident_17116191311550/AccidentDashboard?publish=yes)
+<div align="center">
+  <a href="https://public.tableau.com/app/profile/sandesh.karki/viz/VicAccident_17116191311550/AccidentDashboard?publish=yes">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNsdXhkNGdyaGY1a3lqNjVhNTVydTc5eDZ5NnF1Z2NmYjc1Y2xmayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qMYlSqTmiTdD0sVCbx/giphy.gif" alt="VicRoad Preview"/>
+  </a>
+</div>
 
 **Interactive Dashboard:** https://public.tableau.com/app/profile/sandesh.karki/viz/VicAccident_17116191311550/AccidentDashboard?publish=yes
 
