@@ -9,7 +9,8 @@ This project analyzes 54,258 road accident records in Victoria, Australia, to un
   </a>
 </div>
 
-**Interactive Dashboard:** https://public.tableau.com/app/profile/sandesh.karki/viz/VicAccident_17116191311550/AccidentDashboard?publish=yes
+**Interactive Dashboard:** <br />
+https://public.tableau.com/app/profile/sandesh.karki/viz/VicAccident_17116191311550/AccidentDashboard?publish=yes
 
 ## Overview of Files
 **summary.pdf:** A detailed report analyzing the road accident trends, focusing on:
